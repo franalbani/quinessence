@@ -1,0 +1,2 @@
+# quinessence
+Collection of quines
